@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is new data 2.
+=======
+This is new data.
+>>>>>>> 30de679 (feat: Change file_master.)
